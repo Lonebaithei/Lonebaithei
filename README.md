@@ -1,26 +1,19 @@
 ## Hi there 👋, I’m Lone
 
 ### 🔭 About Me
-🎓I am a Business Intelligence & Data Analytics student in Botswana Accountancy College (BAC),
-📍 Gaborone, Botswana
+🎓I build tech solutions for individuals, and businesses,
 ---
 
 ### 💡 Core Skills & Practices
 
-- Computer Architecture & Operating Systems</br>
-- Networking Basics</br>
 - Version Control (Git)</br>
-- Process Modeling (BPMN)</br>
-- UML & System Design</br>
-- HTML5 & CSS3,JavaScript </br>
-- SQL & Querying</br>
+- Business Intelligence</br>
+- Front_End Development</br>
+- Back_End Development</br>
+- Database System Development</br>
+- Data Analytics</br>
+- Machine Learning</br>
 
----
-
-### 🚀 What’s Next
-- Delving deeper into Python programming, R analytics, and advanced data warehousing.
-- Building real-world BI dashboards and data-driven web applications.
-- Exploring machine learning pipelines and AI concepts.
 
 ---
 
